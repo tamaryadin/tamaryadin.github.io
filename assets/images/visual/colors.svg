@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1498px" height="546px" viewBox="0 0 1498 546" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Rectangle-19" fill="#3F70C7" points="590 217 739 217 739 255 590 255"></polygon>
+        <polygon id="Rectangle-19-Copy-51" fill="#6F93B7" points="419 217 568 217 568 255 419 255"></polygon>
+        <g id="Group-7" transform="translate(590.000000, 290.000000)">
+            <polygon id="Rectangle-19-Copy-30" fill="#BB3F3F" points="0 176 149 176 149 214 0 214"></polygon>
+            <text id="Red" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">RED</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-34" fill="#F26F6F" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-37" fill="#FFE6E6" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-40" fill="#FE9292" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-43" fill="#FFC9C9" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#BB3F3F" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.4511273" y="199">#BB3F3F</tspan>
+            </text>
+            <text id="#F26F6F" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.1752484" y="160">#F26F6F</tspan>
+            </text>
+            <text id="#FE9292" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.0517132" y="122">#FE9292</tspan>
+            </text>
+            <text id="#FFC9C9" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.5048382" y="84">#FFC9C9</tspan>
+            </text>
+            <text id="#FFE6E6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.2987835" y="46">#FFE6E6</tspan>
+            </text>
+            <text id="500-copy-6" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="199">500</tspan>
+            </text>
+            <text id="400-copy-6" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="160">400</tspan>
+            </text>
+            <text id="300-copy-6" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="122">300</tspan>
+            </text>
+            <text id="200-copy-6" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="84">200</tspan>
+            </text>
+            <text id="100-copy-6" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="13" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-10" transform="translate(1107.000000, 290.000000)">
+            <polygon id="Rectangle-19-Copy-48" fill="#524FA0" points="0 176 149 176 149 214 0 214"></polygon>
+            <text id="indigo" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">INDIGO</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-53" fill="#625ED9" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-56" fill="#DFDEFF" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-59" fill="#7975F2" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-62" fill="#A6A2FF" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#524FA0" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.4823773" y="199">#524FA0</tspan>
+            </text>
+            <text id="#625ED9" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.6713421" y="160">#625ED9</tspan>
+            </text>
+            <text id="#7975F2" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.9281781" y="122">#7975F2</tspan>
+            </text>
+            <text id="#A6A2FF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.5263226" y="84">#A6A2FF</tspan>
+            </text>
+            <text id="#DFDEFF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="85.7851117" y="46">#DFDEFF</tspan>
+            </text>
+            <text id="500-copy-9" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="199">500</tspan>
+            </text>
+            <text id="400-copy-9" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="160">400</tspan>
+            </text>
+            <text id="300-copy-9" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="122">300</tspan>
+            </text>
+            <text id="200-copy-9" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="84">200</tspan>
+            </text>
+            <text id="100-copy-9" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="13" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-11" transform="translate(1277.000000, 290.000000)">
+            <polygon id="Rectangle-19-Copy-49" fill="#AD695C" points="0 176 149 176 149 214 0 214"></polygon>
+            <text id="brown" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">BROWN</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-65" fill="#C38A7F" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-66" fill="#F5E3E0" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-67" fill="#D4A197" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-68" fill="#E4BEB6" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#AD695C" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="85.0116742" y="199">#AD695C</tspan>
+            </text>
+            <text id="#C38A7F" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.3920453" y="160">#C38A7F</tspan>
+            </text>
+            <text id="#D4A197" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="85.7851117" y="122">#D4A197</tspan>
+            </text>
+            <text id="#E4BEB6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.4511273" y="84">#E4BEB6</tspan>
+            </text>
+            <text id="#F5E3E0" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.1752484" y="46">#F5E3E0</tspan>
+            </text>
+            <text id="500-copy-12" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="199">500</tspan>
+            </text>
+            <text id="400-copy-12" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="160">400</tspan>
+            </text>
+            <text id="300-copy-12" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="122">300</tspan>
+            </text>
+            <text id="200-copy-12" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="13" y="84">200</tspan>
+            </text>
+            <text id="100-copy-12" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="13" y="46">100</tspan>
+            </text>
+        </g>
+        <text id="Blue" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+            <tspan x="590" y="51">BLUE</tspan>
+        </text>
+        <text id="bluegrey" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+            <tspan x="419" y="51">BLUEGREY</tspan>
+        </text>
+        <text id="Sky" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+            <tspan x="764" y="51">SKY</tspan>
+        </text>
+        <g id="Group-3" transform="translate(61.000000, 290.000000)">
+            <text id="green" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">GREEN</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-32" fill="#70AF5F" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-35" fill="#8ACD77" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-38" fill="#DDFFD4" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-41" fill="#A5E593" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-44" fill="#BDF0AF" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#70AF5F" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.2890179" y="199">#70AF5F</tspan>
+            </text>
+            <text id="#8ACD77" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.0707562" y="160">#8ACD77</tspan>
+            </text>
+            <text id="#A5E593" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.1654828" y="122">#A5E593</tspan>
+            </text>
+            <text id="#BDF0AF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.231889" y="84">#BDF0AF</tspan>
+            </text>
+            <text id="#DDFFD4" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="86.2812054" y="46">#DDFFD4</tspan>
+            </text>
+            <text id="500-copy-7" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-7" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-7" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-7" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-7" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(1106.000000, 41.000000)">
+            <text id="Turquoise" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">TURQUOISE</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-50" fill="#009688" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-54" fill="#26B3A6" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-57" fill="#B2F1EC" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-60" fill="#45D0C3" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-63" fill="#65E4D8" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#009688" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.8046429" y="199">#009688</tspan>
+            </text>
+            <text id="#26B3A6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.2416546" y="160">#26B3A6</tspan>
+            </text>
+            <text id="#45D0C3" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.7743695" y="122">#45D0C3</tspan>
+            </text>
+            <text id="#65E4D8" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.6713421" y="84">#65E4D8</tspan>
+            </text>
+            <text id="#B2F1EC" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.4779828" y="46">#B2F1EC</tspan>
+            </text>
+            <text id="500-copy-10" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-10" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-10" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-10" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-10" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(1277.000000, 41.000000)">
+            <text id="mint" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">MINT </tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-76" fill="#13A77A" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-81" fill="#1EC794" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-82" fill="#A5FEE3" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-83" fill="#49E1B3" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-84" fill="#82F0CF" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#13A77A" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.2792523" y="199">#13A77A</tspan>
+            </text>
+            <text id="#1EC794" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.1547406" y="160">#1EC794</tspan>
+            </text>
+            <text id="#49E1B3" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.1278851" y="122">#49E1B3</tspan>
+            </text>
+            <text id="#82F0CF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.2782757" y="84">#82F0CF</tspan>
+            </text>
+            <text id="#A5FEE3" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="89.4125531" y="46">#A5FEE3</tspan>
+            </text>
+            <text id="500-copy-14" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-17" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-14" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-14" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-14" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-8" transform="translate(760.000000, 290.000000)">
+            <text id="pink" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="1" y="10">PINK</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-52" fill="#C6446F" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-55" fill="#E6648F" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-58" fill="#FFD9E6" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-61" fill="#F48FB1" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-64" fill="#FDB1CB" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#C6446F" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.1547406" y="199">#C6446F</tspan>
+            </text>
+            <text id="#E6648F" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="90.0517132" y="160">#E6648F</tspan>
+            </text>
+            <text id="#F48FB1" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.2514203" y="122">#F48FB1</tspan>
+            </text>
+            <text id="#FDB1CB" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.2973187" y="84">#FDB1CB</tspan>
+            </text>
+            <text id="#FFD9E6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.9184124" y="46">#FFD9E6</tspan>
+            </text>
+            <text id="500-copy-11" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-11" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-11" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-11" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-11" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-9" transform="translate(933.000000, 289.000000)">
+            <text id="purple" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="1" y="10">PURPLE</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-73" fill="#912AA2" points="0 177 149 177 149 215 0 215"></polygon>
+            <polygon id="Rectangle-19-Copy-104" fill="#B74DC9" points="0 139 149 139 149 177 0 177"></polygon>
+            <polygon id="Rectangle-19-Copy-105" fill="#F6BFFF" points="0 25 149 25 149 63 0 63"></polygon>
+            <polygon id="Rectangle-19-Copy-106" fill="#CE67E0" points="0 101 149 101 149 139 0 139"></polygon>
+            <polygon id="Rectangle-19-Copy-107" fill="#F1A9FE" points="0 63 149 63 149 101 0 101"></polygon>
+            <text id="#912AA2" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.2792523" y="200">#912AA2</tspan>
+            </text>
+            <text id="#B74DC9" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.9740765" y="161">#B74DC9</tspan>
+            </text>
+            <text id="#CE67E0" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.2782757" y="123">#CE67E0</tspan>
+            </text>
+            <text id="#F1A9FE" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.4125531" y="85">#F1A9FE</tspan>
+            </text>
+            <text id="#F6BFFF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="89.4984906" y="47">#F6BFFF</tspan>
+            </text>
+            <text id="500-copy-15" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="200">500</tspan>
+            </text>
+            <text id="400-copy-14" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="161">400</tspan>
+            </text>
+            <text id="300-copy-15" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="123">300</tspan>
+            </text>
+            <text id="200-copy-15" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="85">200</tspan>
+            </text>
+            <text id="100-copy-15" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="47">100</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(935.000000, 41.000000)">
+            <text id="Teal" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">TEAL</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-10" fill="#3DB7BB" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-11" fill="#5FD5D9" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-12" fill="#BDFDFF" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-13" fill="#6FE8EC" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-14" fill="#87F4F8" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#3DB7BB" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="86.1469281" y="199">#3DB7BB</tspan>
+            </text>
+            <text id="#5FD5D9" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.4145062" y="160">#5FD5D9</tspan>
+            </text>
+            <text id="#6FE8EC" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.4018109" y="122">#6FE8EC</tspan>
+            </text>
+            <text id="#87F4F8" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="90.0517132" y="84">#87F4F8</tspan>
+            </text>
+            <text id="#BDFDFF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="86.8612835" y="46">#BDFDFF</tspan>
+            </text>
+            <text id="500-copy-2" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-2" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-2" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-2" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-2" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(246.000000, 289.000000)">
+            <text id="yellow" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">YELLOW</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-33" fill="#DEA801" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-36" fill="#FFD03E" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-39" fill="#FFF5D6" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-42" fill="#FFDF7C" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-45" fill="#FFEAA8" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#DEA801" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="87.9086468" y="199">#DEA801</tspan>
+            </text>
+            <text id="#FFD03E" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.9184124" y="160">#FFD03E</tspan>
+            </text>
+            <text id="#FFDF7C" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.1449749" y="122">#FFDF7C</tspan>
+            </text>
+            <text id="#FFEAA8" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.6498578" y="84">#FFEAA8</tspan>
+            </text>
+            <text id="#FFF5D6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.9184124" y="46">#FFF5D6</tspan>
+            </text>
+            <text id="500-copy-8" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-8" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-8" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-8" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-8" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <g id="Group-6" transform="translate(420.000000, 290.000000)">
+            <text id="orange" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+                <tspan x="0" y="10">ORANGE</tspan>
+            </text>
+            <polygon id="Rectangle-19-Copy-17" fill="#CC6700" points="0 176 149 176 149 214 0 214"></polygon>
+            <polygon id="Rectangle-19-Copy-20" fill="#FF8100" points="0 138 149 138 149 176 0 176"></polygon>
+            <polygon id="Rectangle-19-Copy-23" fill="#FFECD9" points="0 24 149 24 149 62 0 62"></polygon>
+            <polygon id="Rectangle-19-Copy-26" fill="#FFB366" points="0 100 149 100 149 138 0 138"></polygon>
+            <polygon id="Rectangle-19-Copy-29" fill="#FFD3A6" points="0 62 149 62 149 100 0 100"></polygon>
+            <text id="#CC6700" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="88.2577679" y="199">#CC6700</tspan>
+            </text>
+            <text id="#FF8100" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="90.0517132" y="160">#FF8100</tspan>
+            </text>
+            <text id="#FFB366" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="89.2514203" y="122">#FFB366</tspan>
+            </text>
+            <text id="#FFD3A6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.032182" y="84">#FFD3A6</tspan>
+            </text>
+            <text id="#FFECD9" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="88.1449749" y="46">#FFECD9</tspan>
+            </text>
+            <text id="500-copy-5" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="199">500</tspan>
+            </text>
+            <text id="400-copy-5" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="160">400</tspan>
+            </text>
+            <text id="300-copy-5" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="122">300</tspan>
+            </text>
+            <text id="200-copy-5" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+                <tspan x="15" y="84">200</tspan>
+            </text>
+            <text id="100-copy-5" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+                <tspan x="15" y="46">100</tspan>
+            </text>
+        </g>
+        <polygon id="Rectangle-19-Copy-5" fill="#1593E4" points="764 217 913 217 913 255 764 255"></polygon>
+        <polygon id="Rectangle-19-Copy" fill="#4F8DF9" points="590 179 739 179 739 217 590 217"></polygon>
+        <polygon id="Rectangle-19-Copy-69" fill="#AEC7E0" points="419 179 568 179 568 217 419 217"></polygon>
+        <polygon id="Rectangle-19-Copy-6" fill="#53BCFF" points="764 179 913 179 913 217 764 217"></polygon>
+        <polygon id="Rectangle-19-Copy-4" fill="#E4F2FE" points="590 65 739 65 739 103 590 103"></polygon>
+        <polygon id="Rectangle-19-Copy-70" fill="#F5F9FD" points="419 65 568 65 568 103 419 103"></polygon>
+        <polygon id="Rectangle-19-Copy-7" fill="#E7F6FF" points="764 65 913 65 913 103 764 103"></polygon>
+        <polygon id="Rectangle-19-Copy-2" fill="#6BB0FF" points="590 141 739 141 739 179 590 179"></polygon>
+        <polygon id="Rectangle-19-Copy-71" fill="#D6E4F2" points="419 141 568 141 568 179 419 179"></polygon>
+        <polygon id="Rectangle-19-Copy-8" fill="#8CD2FF" points="764 141 913 141 913 179 764 179"></polygon>
+        <polygon id="Rectangle-19-Copy-3" fill="#BBDFFB" points="590 103 739 103 739 141 590 141"></polygon>
+        <polygon id="Rectangle-19-Copy-72" fill="#EDF2F7" points="419 103 568 103 568 141 419 141"></polygon>
+        <polygon id="Rectangle-19-Copy-9" fill="#B2E1FF" points="764 103 913 103 913 141 764 141"></polygon>
+        <text id="#3F70C7" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="677.154741" y="240">#3F70C7</tspan>
+        </text>
+        <text id="#6F93B7" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="506.127885" y="240">#6F93B7</tspan>
+        </text>
+        <text id="#1593E4" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="853.928178" y="240">#1593E4</tspan>
+        </text>
+        <text id="#4F8DF9" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="676.794877" y="201">#4F8DF9</tspan>
+        </text>
+        <text id="#AEC7E0" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="505.51558" y="201">#AEC7E0</tspan>
+        </text>
+        <text id="#53BCFF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="852.477983" y="201">#53BCFF</tspan>
+        </text>
+        <text id="#6BB0FF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="676.451127" y="163">#6BB0FF</tspan>
+        </text>
+        <text id="#D6E4F2" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="505.794877" y="163">#D6E4F2</tspan>
+        </text>
+        <text id="#8CD2FF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="852.02144" y="163">#8CD2FF</tspan>
+        </text>
+        <text id="#BBDFFB" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="674.393998" y="125">#BBDFFB</tspan>
+        </text>
+        <text id="#EDF2F7" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="505.918412" y="125">#EDF2F7</tspan>
+        </text>
+        <text id="#B2E1FF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="853.374955" y="125">#B2E1FF</tspan>
+        </text>
+        <text id="#E4F2FE" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="678.298784" y="87">#E4F2FE</tspan>
+        </text>
+        <text id="#F5F9FD" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="505.918412" y="87">#F5F9FD</tspan>
+        </text>
+        <text id="#E7F6FF" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="854.298784" y="87">#E7F6FF</tspan>
+        </text>
+        <text id="500" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="603" y="240">500</tspan>
+        </text>
+        <text id="500-copy-13" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="432" y="240">500</tspan>
+        </text>
+        <text id="500-copy" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="779" y="240">500</tspan>
+        </text>
+        <text id="400" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="603" y="201">400</tspan>
+        </text>
+        <text id="400-copy-13" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="432" y="201">400</tspan>
+        </text>
+        <text id="400-copy" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="779" y="201">400</tspan>
+        </text>
+        <text id="300" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="603" y="163">300</tspan>
+        </text>
+        <text id="300-copy-13" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="432" y="163">300</tspan>
+        </text>
+        <text id="300-copy" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="779" y="163">300</tspan>
+        </text>
+        <text id="200" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="603" y="125">200</tspan>
+        </text>
+        <text id="200-copy-13" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="432" y="125">200</tspan>
+        </text>
+        <text id="200-copy" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="779" y="125">200</tspan>
+        </text>
+        <text id="100" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="603" y="87">100</tspan>
+        </text>
+        <text id="100-copy-13" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="432" y="87">100</tspan>
+        </text>
+        <text id="100-copy" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="779" y="87">100</tspan>
+        </text>
+        <text id="carbon" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+            <tspan x="75" y="51">CARBON</tspan>
+        </text>
+        <polygon id="#2A3E52" fill="#2A3E52" points="75 217 224 217 224 255 75 255"></polygon>
+        <polygon id="Rectangle-19-Copy-19" fill="#556575" points="75 179 224 179 224 217 75 217"></polygon>
+        <polygon id="Rectangle-19-Copy-22" fill="#D4D8DC" points="75 103 224 103 224 141 75 141"></polygon>
+        <polygon id="Rectangle-19-Copy-25" fill="#7F8B97" points="75 141 224 141 224 179 75 179"></polygon>
+        <polygon id="Rectangle-19-Copy-111" fill="#F4F5F6" points="75 65 224 65 224 103 75 103"></polygon>
+        <text id="#2A3E52" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="164.165483" y="240">#2A3E52</tspan>
+        </text>
+        <text id="#556575" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="164.804643" y="201">#556575</tspan>
+        </text>
+        <text id="#7F8B97" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="164.127885" y="163">#7F8B97</tspan>
+        </text>
+        <text id="#F4F5F6" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="165.175248" y="87">#F4F5F6</tspan>
+        </text>
+        <text id="#D4D8DC" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="160.260698" y="125">#D4D8DC</tspan>
+        </text>
+        <text id="500-copy-4" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="90" y="240">500</tspan>
+        </text>
+        <text id="400-copy-4" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="90" y="201">400</tspan>
+        </text>
+        <text id="300-copy-4" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="90" y="163">300</tspan>
+        </text>
+        <text id="100" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="90" y="87">100</tspan>
+        </text>
+        <text id="200" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="90" y="125">200</tspan>
+        </text>
+        <text id="midnight" font-family="Roboto-Medium, Roboto" font-size="11" font-weight="400" letter-spacing="0.1692307" fill="#2A3E52">
+            <tspan x="246" y="51">MIDNIGHT</tspan>
+        </text>
+        <polygon id="Rectangle-19-Copy-113" fill="#2B3B67" points="246 218 395 218 395 256 246 256"></polygon>
+        <polygon id="Rectangle-19-Copy-114" fill="#B4B8C6" points="246 104 395 104 395 142 246 142"></polygon>
+        <polygon id="Rectangle-19-Copy-115" fill="#DADCE3" points="246 66 395 66 395 104 246 104"></polygon>
+        <polygon id="Rectangle-19-Copy-116" fill="#4D587B" points="246 180 395 180 395 218 246 218"></polygon>
+        <polygon id="Rectangle-19-Copy-117" fill="#767D98" points="246 142 395 142 395 180 246 180"></polygon>
+        <text id="#2B3B67-Copy" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="332.204057" y="240">#2B3B67</tspan>
+        </text>
+        <text id="#4D587B-Copy" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="331.747514" y="202">#4D587B</tspan>
+        </text>
+        <text id="#767D98-Copy" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="332.547807" y="164">#767D98</tspan>
+        </text>
+        <text id="#B4B8C6-Copy" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="331.430619" y="126">#B4B8C6</tspan>
+        </text>
+        <text id="#DADCE3-Copy" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="329.991166" y="88">#DADCE3</tspan>
+        </text>
+        <text id="500" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="259" y="240">500</tspan>
+        </text>
+        <text id="400" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="259" y="202">400</tspan>
+        </text>
+        <text id="300" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#FFFFFF">
+            <tspan x="259" y="164">300</tspan>
+        </text>
+        <text id="200" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="259" y="126">200</tspan>
+        </text>
+        <text id="100" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="259" y="88">100</tspan>
+        </text>
+        <polygon id="Rectangle-19-Copy-115" fill="#DADCE3" points="246 66 395 66 395 104 246 104"></polygon>
+        <text id="#DADCE3-Copy" font-family="Roboto-Regular, Roboto" font-size="11" font-weight="normal" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="329.991166" y="88">#DADCE3</tspan>
+        </text>
+        <text id="50-copy" font-family="Roboto-Bold, Roboto" font-size="11" font-weight="bold" letter-spacing="0.1692307" fill="#31465D">
+            <tspan x="259" y="88">50</tspan>
+        </text>
+    </g>
+</svg>

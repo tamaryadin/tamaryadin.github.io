@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="" class=no-js>
+	<head>
+		<meta charset=utf-8>
+		<meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+		<meta itemprop=image content=/images/share-image.png>
+		<title>Tamar Yadin</title>
+		<meta name=description content="Tamar Yadin portfolio website">
+		<meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+		<link rel=apple-touch-icon href=/images/favicon.ico type=image/x-icon>
+		<link rel=icon href=/images/favicon.ico type=image/x-icon>
+		<link rel="shortcut icon" href="../assets/images/favicon.ico">
+		<link rel="stylesheet" href="../assets/main.css">
+	</head>
+	<body class="case">
+		<main>
+
+						<article class="header"></article>
+			<!--
+			<div class="case-cover downward_slow">
+				<img src="../assets/images/freemium/cover@2x.png">
+			</div>
+			-->
+			<article class="downward">
+			<article class="header downward_slow" style="margin-top:18px;">
+				<h2><a href="../index.html" style="text-decoration:none;">⟵</a></h2>
+			</article>
+				
+				<div class="case-text-container">
+					<h5>Similarweb, 2019</h5>
+					<h2>The Color system </h2>
+					<p>I created a fresh and accessible color system that supports Similiarweb’s UI and data visualization needs.
+					</p>
+				</div>
+
+<!--
+				<div class="case-text-container">
+					<hr style="border: 1px dashed #e4e4e4;">
+				</div>
+-->
+				<div class="case-asset-container">
+					<figure>
+						<img class="shadow" src="../assets/images/visual/screenshots.png">
+					</figure>
+					<div class="figcaptionsub">screenshots of similarweb's premium product</div>
+				</div>
+
+				<div class="case-text-container">
+					<h3>Audit</h3>
+					<p>
+						As a first step I conducted a color audit of all the components in the product, to get an idea of how colors have been used so far. 
+					</p>
+					<p>
+						I found myself clustering colors into 3 main groups, and defined preliminary requirements for each one:
+					<ol>
+						<li>
+							<b>Data Visualization</b> - Colors that represent categories of data and are used in various chart types. These colors must be distinct and legible.
+
+						</li>
+						<li>
+							
+							<b>UI</b> - colors that appear in elements like buttons, typography, backgrounds, labels, etc. These colors should support information hierarchy in order to focus the user’s attention.
+
+						</li>
+						<li>
+							
+							<b>Other</b> - Colors that are used in product illustrations and marketing content. Since these assets have a wide range of uses, their colors can be more flexible.
+
+						</li>
+						
+					</ol>
+				</p>
+
+				
+				<img src="../assets/images/visual/colorgroups@2x.png">
+
+				<p>
+						My key insights from this audit:
+					
+					<ol>
+						<li>
+							<b>Inconsistent data visualizations</b> - in screens that featured multiple charts, a category was often represented by one color in one chart, and then a different color in another chart, causing confusion. 
+						</li>
+						<li>
+							<b>Duplicate and legacy colors </b> - There were over 10 different shades of the same color across the product. Some features were using deprecated colors.
+						</li>
+						<li>
+							<b>Accessibility </b>- many colors did not appear legible in color vision deficiency simulations.
+						</li>
+
+
+						I then moved on to state the project’s goals:
+					</ol>
+				</p>
+
+				</div>				
+
+				<div class="case-text-container">
+					<h3>Goals</h3>
+						<p>
+							<ol>
+							<li>Increase <b>legibility of data visualizations.</b>
+							</li><li>
+								Introduce vibrant colors that are consistent with <b>Similarweb’s brand</b>.
+							</li><li>
+								Improve <b>consistency</b> by aligning to a single palette.
+							</li><li>
+								support users with <b>color vision deficiencies</b>.
+							</li><li>
+								Increase <b>velocity</b> of the design & engineering teams by establishing one source of truth.
+							</li>
+						</oL>
+						</p>
+
+				</div>
+				
+			<div class="case-text-container">
+					<h3>Color Experimentation </h3>
+					<p>
+						I decided to tackle the data visualization color palette first since it was the most challenging. Similarweb’s data is usually displayed in one of 2 ways:
+					</p>
+			</div>
+
+			<figure class="left-half">
+					<img src="../assets/images/visual/g2.png">
+					<p><b><br>Comparing between categories in a single website</b></p>
+					<p>
+						The system uses different tint levels of the same color. <br>Usually the comparison is between 2 categories, but some features include heat maps that utilize five tint levels of the same color.</p>
+			</figure>
+			<figure class="right-half">
+					<<img src="../assets/images/visual/g1.png">
+					<p><br><b>Comparing categories between competing websites</b></p>
+					<p>
+						The system uses a different color for each competitor. <br>The max number of competitors that can be compared is 5, but in specific cases of visualizations there could be up to 10.</p>
+			</figure>
+
+			<div class="case-text-container">
+					<p>
+						We decided to keep this logic since it steers users to associate hue with competitors and tint with categories, and promotes a sense of orientation throughout the product.
+
+					</p>
+										<figure>
+						<img src="../assets/images/visual/options.svg">
+					</figure>
+					<p>
+						When choosing new colors I wanted to compliment Similarweb’s vibrant brand colors, and went towards the more saturated side of the palette. The main challenge was choosing 5 distinct colors that are different enough, while also accounting for 5 tint levels for each color.
+					</p>
+				
+			</div>
+
+<div class="case-asset-container">
+					<figure>
+						<img class="shadow" src="../assets/images/visual/compare_before.png">
+						<div class="figcaptionsub">Comparison mode</div>
+					</figure>
+</div>
+
+
+			<div class="case-text-container">
+
+					<p>
+						I eliminated colors that did not pass legibility tests, and picked new shades that are more legible. Then, I tested a few optional palettes on charts in the product. I wanted to see if the new colors are clearer and also fit the product’s visual language.
+					</p>
+
+					<p>
+						When it came to naming the colors, I decided to adapt Material Design’s naming convention. Each color was given a name and included 5 weights to signify its tint levels. 
+					</p>
+					<h6>
+						The transition from a system based on unique names (e.g. light-medium-blue) to one based on numbers significantly improved the communication throughout the design team.
+					</h6>
+			</div>
+
+				<div class="case-asset-container">
+					<figure>
+						<img src="../assets/images/visual/colors.svg">
+					</figure>
+				</div>
+
+
+
+
+				<div class="case-text-container">
+
+					<h3>
+						Expanding the palette
+					</h3>
+					<p>
+						I aligned our UI colors to the new palette to ensure the interface is harmonious with the data visualizations. I expanded the grey palette to support a wider range of typography styles in the product.
+					</p>
+					<p>
+						I also needed to support positive and negative trend colors that are used extensively throughout the product. Since they need to function as legible indicators on top of the data, I separated them from the green and red tints, and included an independant saturated class.
+					</p>
+				</div>
+
+
+				<div class="case-asset-container">
+					<figure>
+						<img src="../assets/images/visual/expension.svg">
+					</figure>
+				</div>
+
+
+
+				<div class="case-text-container">
+					<h3>
+						implementation
+					</h3>
+					<p>
+						The next step was mapping the existing colors in the product to the new palette, which required the attention of many stakeholders in the company. I facilitated sessions with members of the design, product and engineering teams, and presented them with ambiguous cases of color usage. For each case we asked the following questions:
+					</p>
+					<p>
+						<ol>
+							<li>
+								What does this color mean in this context?
+							</li>
+							<li>
+								Have we seen a repeated use of this color before? if so, is the pattern clear and consistent across all uses? Does this make sense?
+							</li>
+							<li>
+								Is the color implemented correctly? (is it the same or a similar color to what the designer intended?)
+							</li>
+							<li>
+								How can we align it to the new color palette?
+							</li>
+						</ol>
+					</p>
+					<p>
+						One of the benefits of having a cross functional team collaborating on the same problem, is that it opens it up to new, unexpected solutions. The amazing engineers I worked with created a slack bot that receives an input of any HEX color and answers with the nearest color from the new color palette. This tool made engineers more independent and the implementation much smoother.
+					</p>
+				</div>
+
+				<div class="case-text-container">
+					<figure>
+						<img src="../assets/images/visual/slack.png">
+					</figure>
+					<div class="figcaptionsub">"Nearest color" - our internal slack bot</div>
+				</div>
+
+
+
+
+
+				<div class="case-text-container">
+
+					<h3>Smart colors</h3>
+					<p>
+						Another idea that arose during these sessions was to assign colors to competing brands based on their dominant brand color. This meant that in a graph that compares between Twitter, Facebook and reddit, Twitter would appear cyan, Facebook - blue, and reddit - orange. 
+					</p>
+					<p>
+						<img src="../assets/images/visual/smart.png">
+					</p>
+					<p>
+						For that to become a reality we needed to identify the brand’s dominant color. We could do that by sampling the website’s favicon and calculating the closest color to it from the new palette. After prototyping and testing this script on random brands we identified 2 main issues:
+					
+						<OL>
+							<LI>
+								This methodology worked for 80% of the websites, but <b>fell short with brands that have more than one dominant main color.</b> We tried prioritizing one color over another or assigning a random color instead, but eventually found it’s creating more confusion than clarity.
+							</LI>
+							<LI>
+								<b>Some colors bear a conventional meaning</b> that can affect innocent comparisons. For example, a green and red line chart comparing spotify to youtube music can be read as positive vs. negative trends. 
+							</LI>
+						</OL>
+					<p>
+						We decided to abandon this direction and revert back to random colors from the new palette.
+					</p>
+				
+				</DIV>
+
+
+				<!-- FINAL RESULTS
+
+
+				<div class="case-text-container">
+
+					<h3>Final result</h3>
+					<p>
+						This new system has increased design and development velocity and created a scaleable system of colors most 
+ 						I created a fresh and accessible color system that supports Similiarweb’s UI and data visualization needs.
+					</p>
+				</div>
+
+
+				<div class="case-asset-container">
+					<figure>
+						<img class="shadow" src="../assets/images/visual/final.png">
+					</figure>
+					<div class="figcaptionsub">Comparison mode with the new colors</div>
+				</div>
+-->
+
+
+			</article>
+
+						<section class="next-prev" style="justify-content:center;">
+				<!-- <h3 class="previous-project"><a href="">Previous project</a></h3> -->
+				<h3 class="next-project" ><a href="../index.html">Back Home</a></h3>
+			</section>
+		</main>
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="../assets/js/vendor/jquery.simpleWeather.min.js"></script>
+  		<script type="text/javascript" src="../assets/js/index.js"></script>
+	</body>
+</html>

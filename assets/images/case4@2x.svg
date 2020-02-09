@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="130px" viewBox="0 0 300 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>case4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="case4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.000000, 21.000000)">
+            <g id="Group-Copy" transform="translate(0.000000, 31.000000)">
+                <ellipse id="Oval-5" fill="#45698F" cx="11.0206616" cy="10.8428576" rx="11.0206616" ry="10.8428576"></ellipse>
+                <ellipse id="Oval-5-Copy-3" fill="#E95F5F" cx="89.1099209" cy="10.8428576" rx="11.0206616" ry="10.8428576"></ellipse>
+                <ellipse id="Oval-5-Copy" fill="#5EC6BB" cx="37.1553734" cy="10.8428576" rx="11.0206616" ry="10.8428576"></ellipse>
+                <ellipse id="Oval-5-Copy-4" fill="#FAD15D" cx="115.244633" cy="10.8428576" rx="11.0206616" ry="10.8428576"></ellipse>
+                <ellipse id="Oval-5-Copy-2" fill="#FC9E51" cx="63.2900852" cy="10.8428576" rx="11.0206616" ry="10.8428576"></ellipse>
+            </g>
+            <circle id="Oval-5" fill="#4F8DF9" cx="179" cy="11" r="11"></circle>
+            <circle id="Oval-5-Copy-3" fill="#F26F6F" cx="257" cy="11" r="11"></circle>
+            <circle id="Oval-5-Copy" fill="#5FD5D9" cx="205" cy="11" r="11"></circle>
+            <circle id="Oval-5-Copy-4" fill="#4F58A0" cx="283" cy="11" r="11"></circle>
+            <circle id="Oval-5-Copy-2" fill="#FFD03E" cx="231" cy="11" r="11"></circle>
+            <circle id="Oval-5" fill="#3F70C7" cx="179" cy="44" r="11"></circle>
+            <circle id="Oval-5-Copy-3" fill="#BBDFFB" cx="257" cy="44" r="11"></circle>
+            <circle id="Oval-5-Copy" fill="#4F8DF9" cx="205" cy="44" r="11"></circle>
+            <circle id="Oval-5-Copy-4" fill="#E4F2FE" cx="283" cy="44" r="11"></circle>
+            <circle id="Oval-5-Copy-2" fill="#8CD2FF" cx="231" cy="44" r="11"></circle>
+            <circle id="Oval-5" fill="#FF442D" cx="179" cy="77" r="11"></circle>
+            <circle id="Oval-5-Copy" fill="#4FBF40" cx="205" cy="77" r="11"></circle>
+            <path d="M135,44 L144.461689,44 C145.952858,44 147.161689,42.7911688 147.161689,41.2999999 L147.161689,13.7000001 C147.161689,12.2088312 148.370521,11 149.86169,11 L154,11 L154,11" id="Path-3" stroke="#FFFFFF" stroke-width="0.900000036"></path>
+            <path d="M135,77 L144.461689,77 C145.952858,77 147.161689,75.7911688 147.161689,74.2999999 L147.161689,46.7000001 C147.161689,45.2088312 148.370521,44 149.86169,44 L154,44 L154,44" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="0.900000036" transform="translate(144.500000, 60.500000) scale(1, -1) translate(-144.500000, -60.500000) "></path>
+        </g>
+    </g>
+</svg>
